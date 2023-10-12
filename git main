@@ -1,0 +1,44 @@
+[33mcommit 41fc55c53ed726e69c568b9df14b3ec6fa1acf36[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: GauravK-bts <gkothe@biztransights.com>
+Date:   Thu Oct 12 20:00:06 2023 +0530
+
+    demo2
+
+[33mcommit b5e76cc58fa4f51b620d6272e9edcac8fd7d78f6[m
+Author: GauravK-bts <gkothe@biztransights.com>
+Date:   Thu Oct 12 19:09:08 2023 +0530
+
+    new py file
+
+[33mcommit 7e59301cfae7b463c9f6268e23e36c2d09283ce9[m
+Merge: 05d7ec2 20d06ca
+Author: GauravK-bts <gkothe@biztransights.com>
+Date:   Thu Oct 12 19:02:26 2023 +0530
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 05d7ec21a9a8fbfebd9028c15d0a458e52d46e9c[m
+Author: GauravK-bts <gkothe@biztransights.com>
+Date:   Thu Oct 12 18:34:50 2023 +0530
+
+    new py file added
+    
+    this is description
+
+[33mcommit 20d06cadf9a9792a832a8b6f49cb3e43cee349e7[m
+Author: gaurav kothe <129998284+GauravK-bts@users.noreply.github.com>
+Date:   Thu Oct 12 17:16:31 2023 +0530
+
+    Update README.md
+
+[33mcommit a74eb6ee177c432fd4f2eb537b2ee1b93c434df6[m
+Author: gaurav kothe <129998284+GauravK-bts@users.noreply.github.com>
+Date:   Thu Oct 12 16:25:18 2023 +0530
+
+    Update README.md
+
+[33mcommit abc5e5b8c0dfe834b27ef9e4192a7876944ceb35[m
+Author: gaurav kothe <129998284+GauravK-bts@users.noreply.github.com>
+Date:   Thu Oct 12 16:24:33 2023 +0530
+
+    Initial commit
